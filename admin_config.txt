@@ -1,0 +1,2 @@
+admin_password=8030
+global_duration=1
